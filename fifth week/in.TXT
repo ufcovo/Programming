@@ -1,0 +1,8 @@
+Q.1) Yapraklar ne renktir? A)Yesil B)Mor C)Siyah D)Mavi
+A
+Q.2) Dersin kodu nedir? A)KOMPE B)CMPE311 C)CMPE226 D)CMPE437
+C
+Q.1) Muz ne renktir ki? A)Sari B)Mor C)Siyah D)Mavi
+A
+Q.2) Java dersin kodu nedir ki? A)KOMPE B)CMPE311 C)CMPE226 D)CMPE437
+D
